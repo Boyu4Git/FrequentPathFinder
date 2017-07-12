@@ -97,7 +97,7 @@ Top 2
 
 Added feature: 
 ---
-  instead of only 3-page paths, you can configure to any number of page, the default number is 3.
+  Instead of only 3-page paths, you can configure to any number of page, the default number is 3.
 
 Assumption: 
 ---
